@@ -14,3 +14,16 @@ push    uploads your changes to a remote repository
 pull    downloads changes from a remote repository
 clone   copies a remote repository locally
 
+-cd = current dir
+-mkdir = creates a dir
+-touch = creates file 
+-git init = create repo at location
+-rm = remove
+-ls -a = show hidden files 
+-cd .. = back one dir
+-cd ../.../ = more than one div
+-cd or -cd~ = Home
+-git add . = adds everything 
+-git commit -m "..."
+-git push origin master
+-git log = Past commits
